@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/new-react-art-app/static/css/main.d76a2140.css",
+    "main.js": "/new-react-art-app/static/js/main.af95b3b2.js",
+    "static/js/453.63b5b179.chunk.js": "/new-react-art-app/static/js/453.63b5b179.chunk.js",
+    "static/media/Wireframe2.jpg": "/new-react-art-app/static/media/Wireframe2.79d25f704ae07269915f.jpg",
+    "static/media/Wireframe1.jpg": "/new-react-art-app/static/media/Wireframe1.3d297c7e7bc14ec813bc.jpg",
+    "index.html": "/new-react-art-app/index.html",
+    "main.d76a2140.css.map": "/new-react-art-app/static/css/main.d76a2140.css.map",
+    "main.af95b3b2.js.map": "/new-react-art-app/static/js/main.af95b3b2.js.map",
+    "453.63b5b179.chunk.js.map": "/new-react-art-app/static/js/453.63b5b179.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76a2140.css",
+    "static/js/main.af95b3b2.js"
+  ]
+}
